@@ -1,11 +1,11 @@
-### Hi there! 👋 I'm Iniobong Effiong
+# Hi there! 👋 I'm Iniobong Effiong
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-I have a keen interest in creation of Software programs and Web development, possessing good interpersonal,
+<strong>I have a keen interest in creation of Software programs and Web development, possessing good interpersonal,
 coding and analytical skills.
 
-I'm open to collaborations, discussions, resources and projects relating to Software Engineering and other tech related topics or projects.
+I'm open to collaborations, discussions, resources and projects relating to Software Engineering and other tech related topics or projects.</strong>
 
 🏫 <b> Course: </b> Software Engineering.
 
